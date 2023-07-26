@@ -1,11 +1,6 @@
 # trial.github.io
-<!DOCTYPE python>
-<python lang="en">
-
-print("Hello World! ")
-input("What is your name? ")
-
-
+<!DOCTYPE html>
+<HTML lang="en">
 
 <!DOCTYPE html>
 <html lang="en">
@@ -13,16 +8,60 @@ input("What is your name? ")
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello Page</title>
+    <title>Password Protected Website</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-    <p>Hello! Please enter your name:</p>
-    <form action="#" method="post">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name">
-        <input type="submit" value="Submit">
-    </form>
+    <div class="password-container">
+        <h1>Welcome to the Protected Website</h1>
+        <p>Please enter the password to continue:</p>
+        <input type="password" id="password-input">
+        <button onclick="checkPassword()">Submit</button>
+        <p id="error-message" class="error-message"></p>
+    </div>
+
+const correctPassword = "secret"; // Change this to your desired password
+
+    <div class="main-page-container" style="display: none;">
+        <h1>Main Page</h1>
+        <!-- Add your main page content here -->
+    </div>
+
+    <script src="script.js"></script>
 </body>
 
 </html>
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.password-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.main-page-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.error-message {
+    color: red;
+}
+
+function checkPassword() {
+    const enteredPassword = document.getElementById("password-input").value;
+    const correctPassword = "secret"; // Change this to your desired password
+
+    if (enteredPassword === correctPassword) {
+        document.querySelector(".password-container").style.display = "none";
+        document.querySelector(".main-page-container").style.display = "block";
+    } else {
+        document.getElementById("error-message").textContent = "Incorrect password. Please try again.";
+    }
+}
+
