@@ -27,26 +27,7 @@ const correctPassword = "secret"; // Change this to your desired password
         <!-- Add your main page content here -->
     </div>
 
-   
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-.password-container {
-    text-align: center;
-    padding: 20px;
-}
-
-.main-page-container {
-    text-align: center;
-    padding: 20px;
-}
-
-.error-message {
-    color: red;
-}
+  
 
 function checkPassword() {
     const enteredPassword = document.getElementById("password-input").value;
