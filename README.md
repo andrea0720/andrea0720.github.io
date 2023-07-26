@@ -1,7 +1,13 @@
 # trial.github.io
 
 <HTML lang="en">
-
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
 
 <head>
    <h1> Good day! Welcome to this Webpage Trial of the owner! </h1>
