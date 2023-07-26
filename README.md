@@ -3,41 +3,16 @@
 <HTML lang="en">
 
 
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Password Protected Website</title>
-    <link rel="stylesheet" href="styles.css">
+<strong>Good day! Welcome to this Webpage Trial of the owner!</strong>
 </head>
 
-<body>
-    <div class="password-container">
-        <h1>Welcome to the Protected Website</h1>
-        <p>Please enter the password to continue:</p>
-        <input type="password" id="password-input">
-        <button onclick="checkPassword()">Submit</button>
-        <p id="error-message" class="error-message"></p>
-    </div>
 
-<const correctPassword = "secret"; // Change this to your desired password>
+   <body>  
+<p>I don't know what to write but I am just ging to put something. Imagine this: However, it's essential to note that high-profile individuals like billionaires and CEOs often have a range of transportation options at their disposal, such as private jets, luxury cars, and hired drivers. While some might choose to use public transportation occasionally or in specific situations, their primary mode of transportation is usually more tailored to their preferences and needs.
 
-    <div class="main-page-container" style="display: none;">
-        <h1>Main Page</h1>
-        <!-- Add your main page content here -->
-    </div>
+In fiction or creative writing, authors have the creative freedom to craft characters and situations to suit the story. So, even if it's less common in real life, in a story, a billionaire or CEO using public transportation like a taxi can be a plausible plot point that adds depth to their character and creates interesting dynamics with other characters.</p>
+</body>
 
-  
 
-<function checkPassword() {
-    const enteredPassword = document.getElementById("password-input").value;
-    const correctPassword = "secret"; // Change this to your desired password>
-
-   < if (enteredPassword === correctPassword) {
-        document.querySelector(".password-container").style.display = "none";
-        document.querySelector(".main-page-container").style.display = "Correct password";
-    } else {
-        document.getElementById("error-message").textContent = "Incorrect password. Please try again.";
-    }
-}>
-
+</html> 
