@@ -5,8 +5,14 @@
 body {
   background-color: lightblue;
 }
+  body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+}
 </style>
-</head>
+
 <body>
 
 <head>
@@ -26,11 +32,6 @@ In fiction or creative writing, authors have the creative freedom to craft chara
   <li>I'm the second item</li>
 </ol>
 
-p {
-  color: red;
-  width: 500px;
-  border: 1px solid black;
-}
 
 </body>
 
