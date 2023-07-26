@@ -6,7 +6,7 @@ body {
   background-color: lightblue;
 }
   body {
-  background-image: url("img_tree.png");
+  background-image: url("img_![image](https://github.com/andrea0720/andrea0720.github.io/assets/140533112/8621407a-82ef-4ed1-81ea-cab1f6722fa7)");
   background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
