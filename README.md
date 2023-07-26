@@ -1,6 +1,6 @@
 # trial.github.io
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE python>
+<python lang="en">
 
 <head>
     <meta charset="UTF-8">
