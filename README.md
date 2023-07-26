@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <HTML lang="en">
 
-<!DOCTYPE html>
-<html lang="en">
+
 
 <head>
     <meta charset="UTF-8">
@@ -28,11 +27,7 @@ const correctPassword = "secret"; // Change this to your desired password
         <!-- Add your main page content here -->
     </div>
 
-    <script src="script.js"></script>
-</body>
-
-</html>
-
+   
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -59,7 +54,7 @@ function checkPassword() {
 
     if (enteredPassword === correctPassword) {
         document.querySelector(".password-container").style.display = "none";
-        document.querySelector(".main-page-container").style.display = "block";
+        document.querySelector(".main-page-container").style.display = "Correct password";
     } else {
         document.getElementById("error-message").textContent = "Incorrect password. Please try again.";
     }
