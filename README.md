@@ -7,6 +7,8 @@ body {
 }
   body {
   background-image: url[image]<img width="254" alt="Screenshot 2023-07-27 202507" src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/770e8082-59c2-4df8-86d0-f92f1abe47b4">
+    <img width="254" alt="Screenshot 2023-07-27 202507" src="https://raw.githubusercontent.com/andrea0720/andrea0720.github.io/assets/140533112/770e8082-59c2-4df8-86d0-f92f1abe47b4">
+    
   background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
