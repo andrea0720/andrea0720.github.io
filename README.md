@@ -6,7 +6,7 @@ body {
   background-color: lightblue;
 }
   body {
-  background-image: url[image](https://github.com/andrea0720/andrea0720.github.io/assets/140533112/8621407a-82ef-4ed1-81ea-cab1f6722fa7)");
+  background-image: url[image] ![large-tree-13](https://github.com/andrea0720/andrea0720.github.io/assets/140533112/d8def8ff-6d04-415f-96f1-e410003b2cb4)
   background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
@@ -31,8 +31,6 @@ In fiction or creative writing, authors have the creative freedom to craft chara
   <li>I'm the first item</li>
   <li>I'm the second item</li>
 </ol>
-
-
 </body>
 
 </html> 
