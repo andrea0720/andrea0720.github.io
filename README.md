@@ -1,8 +1,9 @@
 # trial.github.io
 
-<HTML lang="en">
-<style>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 * {
   box-sizing: border-box;
@@ -45,38 +46,43 @@
   .menu, .main, .right {
     width: 100%;
   }
-body {
-  background-color: lightblue;
-}
-  body {
-  background-image: url[image]<img width="254" alt="Screenshot 2023-07-27 202507" src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/770e8082-59c2-4df8-86d0-f92f1abe47b4">
-    
-<meta name="viewport" content="width=device-width, initial-scale=2.3">
-    
-  background-repeat: no-repeat;
-  background-position: right top;
-  margin-right: 200px;
 }
 </style>
-
-<body>
-
-<head>
-   <h1> Good day! Welcome to this Webpage Trial of the owner! </h1>
 </head>
+<body style="font-family:Verdana;">
+
+<div style="background-color:#f1f1f1;padding:15px;">
+  <h1>Cinque Terre</h1>
+  <h3>Resize the browser window</h3>
+</div>
+
+<div style="overflow:auto">
+  <div class="menu">
+    <div class="menuitem">The Walk</div>
+    <div class="menuitem">Transport</div>
+    <div class="menuitem">History</div>
+    <div class="menuitem">Gallery</div>
+  </div>
+
+  <div class="main">
+    <h2>The Walk</h2>
+    <p>The walk from Monterosso to Riomaggiore will take you approximately two hours, give or take an hour depending on the weather conditions and your physical shape.</p>
+    <img src="img_5terre.jpg" style="width:100%">
+  </div>
+
+  <div class="right">
+    <h2>What?</h2>
+    <p>Cinque Terre comprises five villages: Monterosso, Vernazza, Corniglia, Manarola, and Riomaggiore.</p>
+    <h2>Where?</h2>
+    <p>On the northwest cost of the Italian Riviera, north of the city La Spezia.</p>
+    <h2>Price?</h2>
+    <p>The Walk is free!</p>
+  </div>
+</div>
 
 
-   <body>  
-<p>I don't know what to write but I am just ging to put something. Imagine this: However, it's essential to note that high-profile individuals like billionaires and CEOs often have a range of transportation options at their disposal, such as private jets, luxury cars, and hired drivers. While some might choose to use public transportation occasionally or in specific situations, their primary mode of transportation is usually more tailored to their preferences and needs.
+<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is a part of a demonstration of fluid web design made by w3schools.com. Resize the browser window to see the content respond to the resizing.</div>
 
-In fiction or creative writing, authors have the creative freedom to craft characters and situations to suit the story. So, even if it's less common in real life, in a story, a billionaire or CEO using public transportation like a taxi can be a plausible plot point that adds depth to their character and creates interesting dynamics with other characters.</p>
-
-
-<strong>Remember this!</strong>
-<ol>
-  <li>I'm the first item</li>
-  <li>I'm the second item</li>
-</ol>
 </body>
 
 </html> 
