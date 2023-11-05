@@ -6,6 +6,7 @@
  body {
   background-color: white;
 }
+ <h1 style="background-color:powderblue;">This is a heading</h1>
 * {
   box-sizing: border-box;
 }
