@@ -4,7 +4,11 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
 <style>
+ body {
+  background-color: lightblue;
+}
 * {
   box-sizing: border-box;
 }
@@ -49,10 +53,10 @@
 }
 </style>
 </head>
-<body style="font-family:Verdana;">
+<body style="font-family:Bookman Old Style;">
 
 <div style="background-color:#f1f1f1;padding:15px;">
-  <h1>Cinque</h1>
+  <h1>Cinque hehe</h1>
   <h3>Resize the browser window</h3>
 </div>
 
