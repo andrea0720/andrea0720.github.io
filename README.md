@@ -1,13 +1,10 @@
-# trial.github.io
-
- <!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
 <style>
  body {
-  background-color: lightblue;
+  background-color: white;
 }
 * {
   box-sizing: border-box;
@@ -59,6 +56,7 @@
   <h1>Cinque hehe</h1>
   <h3>Resize the browser window</h3>
 </div>
+<img src="img_girl.jpg" width="500" height="600">
 
 <div style="overflow:auto">
   <div class="menu">
