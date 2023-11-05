@@ -56,8 +56,8 @@
   <h1>Cinque hehe</h1>
   <h3>Resize the browser window</h3>
 </div>
-<img src="img_girl.jpg" width="500" height="600">
 
+<img width="575" alt="mem " src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/a6884dc5-0b9b-4cfd-8738-db1fa46c778c">
 <div style="overflow:auto">
   <div class="menu">
     <div class="menuitem">The Walk</div>
