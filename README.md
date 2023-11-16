@@ -11,11 +11,11 @@
   box-sizing: border-box;
 }
 .menu {
-  background-color: lightblue;
   float: left;
   width: 20%;
 }
 .menuitem {
+  background-color: lightblue;
   padding: 8px;
   margin-top: 7px;
   border-bottom: 1px solid #f1f1f1;
@@ -59,6 +59,10 @@
   <h1>To my dearest and most handsome langga,</h1>
   <h3>Jresmail Servano</h3>
 </div>
+
+<p>                                       
+
+</p>
 
 <img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/10ac60a3-02d3-4aae-9573-8d6e33750145" alt="HAHA">
 <div style="overflow:auto">
