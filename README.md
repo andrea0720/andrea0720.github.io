@@ -20,6 +20,7 @@
   border-bottom: 1px solid #f1f1f1;
 }
 .main {
+  background-color: lightblue;
   float: left;
   width: 60%;
   padding: 0 20px;
@@ -59,13 +60,10 @@
 </div>
 
 <img width="575" alt="HAHA " src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/e40ca4b1-a0a2-4d69-bd61-4815a963b212)">
-
-
-<img width="575" alt="mem " src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/a6884dc5-0b9b-4cfd-8738-db1fa46c778c">
 <div style="overflow:auto">
   <div class="menu">
-    <div class="menuitem">The Walk</div>
-    <div class="menuitem">Transport</div>
+    <div class="menuitem">Happy Birthday!</div>
+    <div class="menuitem">Message</div>
     <div class="menuitem">History</div>
     <div class="menuitem">Gallery</div>
   </div>
