@@ -11,6 +11,7 @@
   box-sizing: border-box;
 }
 .menu {
+  background-color: lightblue;
   float: left;
   width: 20%;
 }
@@ -59,7 +60,7 @@
   <h3>Jresmail Servano</h3>
 </div>
 
-<img width="575" alt="HAHA " src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/e40ca4b1-a0a2-4d69-bd61-4815a963b212)">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/10ac60a3-02d3-4aae-9573-8d6e33750145" alt="HAHA">
 <div style="overflow:auto">
   <div class="menu">
     <div class="menuitem">Happy Birthday!</div>
@@ -85,7 +86,7 @@
 </div>
 
 
-<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is a part of a demonstration of fluid web design made by w3schools.com. Resize the browser window to see the content respond to the resizing.</div>
+<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is made by Nina Andrea Villaver as a part of her gift to Jresmail Servano. </div>
 
 </body>
 
