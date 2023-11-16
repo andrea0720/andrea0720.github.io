@@ -54,11 +54,11 @@
 <body style="font-family:Bookman Old Style;">
 
 <div style="background-color:#f1f1f1;padding:15px;">
-  <h1>Cinque hehe</h1>
-  <h3>Resize the browser window</h3>
+  <h1>To my dearest and most handsome langga,</h1>
+  <h3>Jresmail Servano</h3>
 </div>
 
-<img width="575" alt="HAHA " src="![HAHA](https://github.com/andrea0720/andrea0720.github.io/assets/140533112/e40ca4b1-a0a2-4d69-bd61-4815a963b212)">
+<img width="575" alt="HAHA " src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/e40ca4b1-a0a2-4d69-bd61-4815a963b212)">
 
 
 <img width="575" alt="mem " src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/a6884dc5-0b9b-4cfd-8738-db1fa46c778c">
