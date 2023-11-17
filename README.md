@@ -73,38 +73,38 @@
 <p> I'm sorry for not being there in person to celebrate, but I want you to know my thoughts and love are with you. Cheers to you, to us, and the countless adventures ahead. Thanks for being my rock, my langga, and my everything. </p>
 <p> Wishing you the happiest of birthdays and an even more incredible year ahead. </p>
 <p> With all my love,
-Nina Andrea V. (Apiledo nimo haha)</p>
+<p>Nina Andrea V. (Apiledo nimo haha)</p>
     <img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/10ac60a3-02d3-4aae-9573-8d6e33750145" alt="HAHA">
   </div>
 
   <div class="right">
     <h2>Poem</h2>
-    <p>You are the love of my life, a radiant light,
-Guiding me through the darkest night.
-The best, the handsomest, my heart's true delight,
-In your presence, everything feels just right. </p>
+    <p>You are the love of my life, a radiant light,</p>
+ <p>Guiding me through the darkest night.</p>
+ <p>The best, the handsomest, my heart's true delight,</p>
+ <p>In your presence, everything feels just right. </p>
 
-<p>In your awesomeness, a brilliance that shines,
-A constellation of virtues, like celestial signs.
-A charm so magnetic, in every line,
-Drawing me close, our fates entwine.</p>
+<p>In your awesomeness, a brilliance that shines,</p>
+ <p>A constellation of virtues, like celestial signs.</p>
+ <p>A charm so magnetic, in every line,</p>
+ <p>Drawing me close, our fates entwine.</p>
 
-<p>I love you deeply, more than words can express,
-A profound emotion, impossible to suppress.
-For your love, my flaws, you graciously undress,
-Unveiling acceptance, in your tenderness.</p>
+<p>I love you deeply, more than words can express,</p>
+ <p>A profound emotion, impossible to suppress.</p>
+ <p>For your love, my flaws, you graciously undress,</p>
+ <p>Unveiling acceptance, in your tenderness.</p>
 
-<p>You're my rock, my anchor, in your embrace,
-A sanctuary where worries find no space.
-Thank you for being awesome, filling every place,
-In your love, I find solace and grace.</p>
+<p>You're my rock, my anchor, in your embrace,</p>
+ <p>A sanctuary where worries find no space.</p>
+ <p>Thank you for being awesome, filling every place,</p>
+ <p>In your love, I find solace and grace.</p>
 
     <h2>Your Name</h2>
     <p>Joyful spirit, a laughter that's contagious,</p>
 <p>Radiating warmth, making moments precious.</p>
 <p>Ever resilient, facing challenges with ease,</p>
 <p>Smiles that bring comfort, a gentle breeze.</p>
-<p>Generous heart, kindness flows free,</p>
+<p>Munificent in generosity, kindness flows free,</p>
 <p>Adventurous soul, exploring life with glee.</p>
 <p>Inspiring others with a genuine grace,</p>
 <p>Loyal and true, a friend in every embrace.</p>
