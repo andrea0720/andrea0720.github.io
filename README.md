@@ -109,11 +109,36 @@
 <p>Inspiring others with a genuine grace,</p>
 <p>Loyal and true, a friend in every embrace.</p>
     <h2>Gallery</h2>
-    <p>The Walk is free!</p>
+    <p>Pictures. I love you so much lang!</p>
   </div>
 
+ <style>
+    body {
+      background-color: white;
+      font-family: 'Bookman Old Style';
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+    }
+
+    img {
+      width: 48%;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/ca21b56a-e267-484d-b850-f870b9cd5da5" alt="Image 1">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/a93ea5ee-17a2-41c6-a416-2e9338332692" alt="Image 2">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/aaf69da0-9836-4a2f-8ce4-69137f399993" alt="Image 3">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/90b283d5-8594-4055-ac7b-329e0d6d8bf9" alt="Image 4">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/646d4978-36e9-4fd4-acc0-7f718534f236" alt="Image 5">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/8944b487-ae10-4dd5-9b14-d57e9dfd4083" alt="Image 6">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/838e105d-50a5-40f6-8066-21715abee85e" alt="Image 7">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/d9d2349c-50f4-414e-b27e-baadc44bb194" alt="Image 8">
+
+</body>
 
 <div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is made by Nina Andrea Villaver as a part of her gift to Jresmail Servano. </div>
 
-
-</html> 
