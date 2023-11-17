@@ -16,7 +16,7 @@
 }
 .main {
   padding:10px;
-  text-indent: 50px;
+  text-indent: 10px;
   font-family:Bookman Old Style;
   background-color: lightblue; 
   text-align: justify;
@@ -83,17 +83,23 @@
  <p>Guiding me through the darkest night.</p>
  <p>The best, the handsomest, my heart's true delight,</p>
  <p>In your presence, everything feels just right. </p>
+<p>                                       
 
+</p>
 <p>In your awesomeness, a brilliance that shines,</p>
  <p>A constellation of virtues, like celestial signs.</p>
  <p>A charm so magnetic, in every line,</p>
  <p>Drawing me close, our fates entwine.</p>
+<p>                                       
 
+</p>
 <p>I love you deeply, more than words can express,</p>
  <p>A profound emotion, impossible to suppress.</p>
  <p>For your love, my flaws, you graciously undress,</p>
  <p>Unveiling acceptance, in your tenderness.</p>
+<p>                                       
 
+</p>
 <p>You're my rock, my anchor, in your embrace,</p>
  <p>A sanctuary where worries find no space.</p>
  <p>Thank you for being awesome, filling every place,</p>
@@ -122,8 +128,8 @@
     }
 
     img {
-      width: 48%;
-      margin: 10px;
+      width: 80%;
+      margin: 100px;
     }
   </style>
 </head>
