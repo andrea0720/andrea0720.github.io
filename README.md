@@ -74,8 +74,10 @@
 <p> Wishing you the happiest of birthdays and an even more incredible year ahead. </p>
 <p> With all my love,
 <p>Nina Andrea V. (Apiledo nimo haha)</p>
+
+   <div style="background-color: white; font-family: 'Bookman Old Style'; display: flex;flex-wrap: wrap;justify-content: center;align-items: center;height: 100vh; margin: 0;">
     <img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/10ac60a3-02d3-4aae-9573-8d6e33750145" alt="HAHA">
-  
+   </div>
 
   <div class="right">
     <h2>Poem</h2>
@@ -121,36 +123,28 @@
     <p>Pictures. I love you so much lang!</p>
   </div>
 
- <style>
-    body {
-      background-color: white;
-      font-family: 'Bookman Old Style';
-      display: flex;
-      flex-wrap: wrap;
-       justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
+
+<div style="background-color: white; font-family: 'Bookman Old Style'; display: flex;flex-wrap: wrap;justify-content: center;align-items: center;height: 100vh; margin: 0;">
 
     img {
       width: 80%;
-      margin: 100px;
+      margin: 10px; 
     }
   </style>
-
+</head>
 <body>
 
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/333240574_191612493564047_9193573208103970249_n.jpg" alt="Image 1">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/325144091_2030503323822212_5935159301434496187_n.jpg" alt="Image 2">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/326388675_563083479207766_8001272451777133082_n.jpg" alt="Image 3">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/332908202_1342203976338079_5465561448679046084_n.jpg" alt="Image 4">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/346114772_226207190041553_8349380740393447942_n.jpg" alt="Image 5">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/387338291_722924339722821_7950862460457586090_n.jpg" alt="Image 6">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/387610458_244719825262694_7409301976477440117_n.jpg" alt="Image 7">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/1.jpg" alt="Image 8">
+<img src="https://github.com/andrea0720/andrea0720.github.io/blob/main/assets/140533112/333240574_191612493564047_9193573208103970249_n.jpg" alt="Image 1">
+<img src="https://github.com/andrea0720/andrea0720.github.io/blob/main/assets/140533112/325144091_2030503323822212_5935159301434496187_n.jpg" alt="Image 2">
+<img src="https://github.com/andrea0720/andrea0720.github.io/blob/main/assets/140533112/326388675_563083479207766_8001272451777133082_n.jpg" alt="Image 3">
+<img src="https://github.com/andrea0720/andrea0720.github.io/blob/main/assets/140533112/332908202_1342203976338079_5465561448679046084_n.jpg" alt="Image 4">
+<img src="https://github.com/andrea0720/andrea0720.github.io/blob/main/assets/140533112/346114772_226207190041553_8349380740393447942_n.jpg" alt="Image 5">
+<img src="https://github.com/andrea0720/andrea0720.github.io/blob/main/assets/140533112/387338291_722924339722821_7950862460457586090_n.jpg" alt="Image 6">
+<img src="https://github.com/andrea0720/andrea0720.github.io/blob/main/assets/140533112/387610458_244719825262694_7409301976477440117_n.jpg" alt="Image 7">
+<img src="https://github.com/andrea0720/andrea0720.github.io/blob/main/assets/140533112/1.jpg" alt="Image 8">
 
 </body>
+
 
 <div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is made by Nina Andrea Villaver as a part of her gift to Jresmail Servano. </div>
 
