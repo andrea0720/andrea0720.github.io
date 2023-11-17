@@ -75,7 +75,7 @@
 <p> With all my love,
 <p>Nina Andrea V. (Apiledo nimo haha)</p>
     <img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/10ac60a3-02d3-4aae-9573-8d6e33750145" alt="HAHA">
-  </div>
+  
 
   <div class="right">
     <h2>Poem</h2>
@@ -111,7 +111,6 @@
     <h2>Gallery</h2>
     <p>The Walk is free!</p>
   </div>
-</div>
 
 
 <div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is made by Nina Andrea Villaver as a part of her gift to Jresmail Servano. </div>
