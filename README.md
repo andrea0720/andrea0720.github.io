@@ -85,6 +85,7 @@
  <p>In your presence, everything feels just right. </p>
 <p>                                       
 
+
 </p>
 <p>In your awesomeness, a brilliance that shines,</p>
  <p>A constellation of virtues, like celestial signs.</p>
@@ -92,12 +93,14 @@
  <p>Drawing me close, our fates entwine.</p>
 <p>                                       
 
+
 </p>
 <p>I love you deeply, more than words can express,</p>
  <p>A profound emotion, impossible to suppress.</p>
  <p>For your love, my flaws, you graciously undress,</p>
  <p>Unveiling acceptance, in your tenderness.</p>
 <p>                                       
+
 
 </p>
 <p>You're my rock, my anchor, in your embrace,</p>
@@ -124,7 +127,10 @@
       font-family: 'Bookman Old Style';
       display: flex;
       flex-wrap: wrap;
-      justify-content: space-evenly;
+       justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
     }
 
     img {
@@ -132,17 +138,17 @@
       margin: 100px;
     }
   </style>
-</head>
+
 <body>
 
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/ca21b56a-e267-484d-b850-f870b9cd5da5" alt="Image 1">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/a93ea5ee-17a2-41c6-a416-2e9338332692" alt="Image 2">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/aaf69da0-9836-4a2f-8ce4-69137f399993" alt="Image 3">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/90b283d5-8594-4055-ac7b-329e0d6d8bf9" alt="Image 4">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/646d4978-36e9-4fd4-acc0-7f718534f236" alt="Image 5">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/8944b487-ae10-4dd5-9b14-d57e9dfd4083" alt="Image 6">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/838e105d-50a5-40f6-8066-21715abee85e" alt="Image 7">
-<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/d9d2349c-50f4-414e-b27e-baadc44bb194" alt="Image 8">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/333240574_191612493564047_9193573208103970249_n.jpg" alt="Image 1">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/325144091_2030503323822212_5935159301434496187_n.jpg" alt="Image 2">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/326388675_563083479207766_8001272451777133082_n.jpg" alt="Image 3">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/332908202_1342203976338079_5465561448679046084_n.jpg" alt="Image 4">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/346114772_226207190041553_8349380740393447942_n.jpg" alt="Image 5">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/387338291_722924339722821_7950862460457586090_n.jpg" alt="Image 6">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/387610458_244719825262694_7409301976477440117_n.jpg" alt="Image 7">
+<img src="https://github.com/andrea0720/andrea0720.github.io/assets/140533112/1.jpg" alt="Image 8">
 
 </body>
 
