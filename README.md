@@ -7,8 +7,7 @@
 }
 .menu {
   font-family:Bookman Old Style;
-  float: left;
-  width: 20%;
+  width: 100%;
 }
 .menuitem {
   padding: 8px;
@@ -28,8 +27,7 @@
 .right {
   font-family:Bookman Old Style;
   background-color: lightblue;
-  float: left;
-  width: 20%;
+  width: 100%;
   padding: 10px 15px;
   margin-top: 7px;
 }
@@ -91,6 +89,5 @@ Nina Andrea V. (Apiledo nimo haha)</p>
 
 <div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is made by Nina Andrea Villaver as a part of her gift to Jresmail Servano. </div>
 
-</body>
 
 </html> 
