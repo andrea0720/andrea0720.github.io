@@ -16,6 +16,7 @@
 }
 .main {
   padding:10px;
+  text-indent: 50px;
   font-family:Bookman Old Style;
   background-color: lightblue; 
   text-align: justify;
@@ -77,11 +78,37 @@ Nina Andrea V. (Apiledo nimo haha)</p>
   </div>
 
   <div class="right">
-    <h2>What?</h2>
-    <p>Cinque Terre comprises five villages: Monterosso, Vernazza, Corniglia, Manarola, and Riomaggiore.</p>
-    <h2>Where?</h2>
-    <p>On the northwest cost of the Italian Riviera, north of the city La Spezia.</p>
-    <h2>Price?</h2>
+    <h2>Poem</h2>
+    <p>You are the love of my life, a radiant light,
+Guiding me through the darkest night.
+The best, the handsomest, my heart's true delight,
+In your presence, everything feels just right. </p>
+
+<p>In your awesomeness, a brilliance that shines,
+A constellation of virtues, like celestial signs.
+A charm so magnetic, in every line,
+Drawing me close, our fates entwine.</p>
+
+<p>I love you deeply, more than words can express,
+A profound emotion, impossible to suppress.
+For your love, my flaws, you graciously undress,
+Unveiling acceptance, in your tenderness.</p>
+
+<p>You're my rock, my anchor, in your embrace,
+A sanctuary where worries find no space.
+Thank you for being awesome, filling every place,
+In your love, I find solace and grace.</p>
+
+    <h2>Your Name</h2>
+    <p>Joyful spirit, a laughter that's contagious,</p>
+<p>Radiating warmth, making moments precious.</p>
+<p>Ever resilient, facing challenges with ease,</p>
+<p>Smiles that bring comfort, a gentle breeze.</p>
+<p>Generous heart, kindness flows free,</p>
+<p>Adventurous soul, exploring life with glee.</p>
+<p>Inspiring others with a genuine grace,</p>
+<p>Loyal and true, a friend in every embrace.</p>
+    <h2>Gallery</h2>
     <p>The Walk is free!</p>
   </div>
 </div>
