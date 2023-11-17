@@ -119,4 +119,3 @@
     
 
 <div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is made by Nina Andrea Villaver as a part of her gift to Jresmail Servano. </div>
-
