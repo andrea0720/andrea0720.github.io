@@ -1,16 +1,12 @@
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
+
 <style>
  body {
   background-color: white;
 }
- <h1 style="background-color:powderblue;">This is a heading</h1>
-* {
-  box-sizing: border-box;
-}
 .menu {
+  font-family:Bookman Old Style;
   float: left;
   width: 20%;
 }
@@ -20,29 +16,22 @@
   border-bottom: 1px solid #f1f1f1;
 }
 .main {
-  background-color: lightblue;
-  float: left;
-  width: 60%;
-  padding: 0 20px;
+  padding:10px;
+  font-family:Bookman Old Style;
+  background-color: lightblue; 
+  text-align: justify;
+  width: 100%;
   overflow: hidden;
+  margin-top: 7px;
+  border-bottom: 1px solid #f1f1f1;
 }
 .right {
+  font-family:Bookman Old Style;
   background-color: lightblue;
   float: left;
   width: 20%;
   padding: 10px 15px;
   margin-top: 7px;
-}
-
-@media only screen and (max-width:800px) {
-  /* For tablets: */
-  .main {
-    width: 80%;
-    padding: 0;
-  }
-  .right {
-    width: 100%;
-  }
 }
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
@@ -52,14 +41,15 @@
 }
 </style>
 </head>
-<body style="font-family:Bookman Old Style;">
 
-<div style="background-color:#f1f1f1;padding:15px;">
+
+<div style="background-color:#f1f1f1;padding:10px;font-family:Bookman Old Style;background-color: lightblue;">
   <h1>To my dearest and most handsome langga,</h1>
   <h3>Jresmail Servano</h3>
 </div>
 
 <p>                                       
+
 
 </p>
 
@@ -67,17 +57,12 @@
   <div class="menu">
     <div class="menuitem">Happy Birthday!</div>
     <div class="menuitem">Message</div>
-    <div class="menuitem">History</div>
     <div class="menuitem">Gallery</div>
   </div>
-
+  
+  
   <div class="main">
-	  div {
-  text-align: justify;
-  text-justify: inter-word;
-  background-color: lightblue;
-}
-    <h2>The Walk</h2>
+    <h2>Happy Birthday!</h2>
     <p>To Jresmail, </p>
 	<p> Hello! I hope this message finds you surrounded by the warmth and joy that birthdays bring, even though my wishes are fashionably late. I owe you a big apology for the tardiness; the chaos of school took over, and I lost track of time. Thanks for being patient and understanding—I'm lucky to have someone as awesome as you who gets it. </p>
 <p> Your birthday means the world to me, and even if you say it's no big deal, I can't help but celebrate the incredible person you are. Turning 24 is a milestone, and I'm beyond grateful to be a part of your journey. You don’t understand when I tell you that you need to be celebrated! Because you are THE BEST! </p>
